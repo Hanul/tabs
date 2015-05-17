@@ -1,11 +1,3 @@
-# tabs
-
-Tab과 몇가지 키워드로 좀 더 사용을 편리하게 만드는 Lisp의 방언입니다.
-
-JavaScript 환경에서 동작합니다.
-
-### 예제
-```
 func square x
 	return * x x
 
@@ -31,4 +23,3 @@ var i 0
 while != i 5
 	console.log i
 	= i (+ i 1)
-```
